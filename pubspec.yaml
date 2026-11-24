@@ -1,0 +1,7 @@
+name: netcheck_backend 
+environment: 
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  http: ^1.6.0
+  shelf: ^1.4.3
+  shelf_router: ^1.1.5
